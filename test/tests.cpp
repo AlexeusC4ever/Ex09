@@ -1,5 +1,5 @@
 // Copyright 2020 GHA Test Team
-#include "MyStack.h"
+#include "../include/MyStack.h"
 
 #include <gtest/gtest.h>
 #include <string>
